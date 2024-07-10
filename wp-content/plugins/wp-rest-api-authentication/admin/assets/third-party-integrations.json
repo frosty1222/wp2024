@@ -1,0 +1,53 @@
+{
+    "WooCommerce": {
+      "file": "woocommerce/woocommerce.php",
+      "namespace": "wc",
+      "image": "woocommerce-circle.png"
+    },
+    "Paid Membership Pro": {
+      "file": "paid-memberships-pro/paid-memberships-pro.php",
+      "namespace": "pmpro",
+      "image": "paid-membership-pro.png"
+    },
+    "Forminator": {
+      "file": "forminator/forminator.php",
+      "namespace": "forminator",
+      "image": "forminator.png"
+    },
+    "Contact Form 7": {
+      "file": "contact-form-7/wp-contact-form-7.php",
+      "namespace": "contact-form-7",
+      "image": "contact-form-7.png"
+    },
+    "Formidable Forms": {
+      "file": "formidable/formidable.php",
+      "namespace": "frm",
+      "image": "formidable-forms.png"
+    },
+    "Gravity Forms": {
+      "file": "gravityforms/gravityforms.php",
+      "namespace": "gravityforms",
+      "image": "gravityform.jpg"
+    },
+    "Ultimate Member": {
+      "file": "ultimate-member/ultimate-member.php",
+      "namespace": "um",
+      "image": "ultimate-member.png"
+    },
+    "Learndash": {
+      "file": "sfwd-lms/sfwd_lms.php",
+      "namespace": "ldlms",
+      "image": "learndash.png"
+    },
+    "Co Cart": {
+      "file": "cart-rest-api-for-woocommerce/cart-rest-api-for-woocommerce.php",
+      "namespace": "cocart",
+      "image": "cocart-icon.png"
+    },
+    "miniOrange Custom API Plugin": {
+      "file": "custom-api-for-wp/custom-api-for-wordpress.php",
+      "namespace": "mo/v1",
+      "image": "mologo.png"
+    }
+  }
+  
